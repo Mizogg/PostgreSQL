@@ -2,6 +2,12 @@
 
 Speed Fast API request for Bitcoin and Other Crypto Balance Checker with 🐍 Python 🐍 PostgreSQL and Flask.
 
+
+
+https://user-images.githubusercontent.com/88630056/185801044-64f54c6f-9c66-48ad-84c8-cc7e53db18ce.mp4
+
+
+
 PostgreSQL, also known as Postgres, is a free and open-source relational database management system emphasizing extensibility and SQL compliance.
 It was originally named POSTGRES, referring to its origins as a successor to the Ingres database developed at the University of California, Berkeley. 
 
